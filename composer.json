@@ -13,6 +13,5 @@
         "classmap" : [
             "Gravatario.php"
         ]
-    },
-     "minimum-stability": "stable"
+    }
 }
