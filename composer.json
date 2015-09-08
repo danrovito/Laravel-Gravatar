@@ -1,6 +1,6 @@
 {
     "name": "danrovito/gravatario",
-    "description": "Use the authorized users Gravatar as an image",
+    "description": "Uses the authorized users email to display their Gravatar as an image",
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
