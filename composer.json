@@ -2,6 +2,7 @@
     "name": "danrovito/gravatario",
     "description": "Use the authorized users Gravatar as an image",
     "license": "MIT",
+    "version": "0.3.0",
     "authors": [
         {
             "name": "Dan Rovito",
