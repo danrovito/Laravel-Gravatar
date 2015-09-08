@@ -1,6 +1,6 @@
 <?php
 
-//namespace DanRovito\Gravatario;
+namespace DanRovito;
 
 trait Gravatario
 {
