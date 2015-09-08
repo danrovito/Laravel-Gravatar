@@ -1,1 +1,1 @@
-# php-gravatar 
+# gravatar-php
