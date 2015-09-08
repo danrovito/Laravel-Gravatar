@@ -6,15 +6,9 @@ Gravatario is a simple Laravel package that displays a registered users Gravatar
 
 ## Installation
 
-Add to your composer.json file
+Via [Composer](https://getcomposer.org/)
 
-```php
-"require": {
-
-  "danrovito/gravatario": "1.0"
-
-}
-```
+`composer require danrovito/gravatario`
 
 ## Usage
 
