@@ -1,11 +1,6 @@
 <?php
-/**
- * Gravatario
- *
- *
- * @author Dan Rovito <danrovito.com>
- * @version 1
- */
+
+//namespace DanRovito\Gravatario;
 
 trait Gravatario
 {
