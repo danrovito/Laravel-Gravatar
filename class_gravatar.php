@@ -1,6 +1,6 @@
 <?php
 /**
- * PHP Gravatar
+ * Gravatario
  *
  *
  * @author Dan Rovito <danrovito.com>
