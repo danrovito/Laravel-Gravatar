@@ -11,7 +11,7 @@ Add to your composer.json file
 ```php
 "require": {
 
-"danrovito/gravatario": "1.0"
+  "danrovito/gravatario": "1.0"
 
 }
 ```
