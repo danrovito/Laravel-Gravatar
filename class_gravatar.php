@@ -6,7 +6,9 @@
  * @author Dan Rovito <danrovito.com>
  * @version 1
  */
-trait gravatario
+namespace DanRovito\Gravatario
+use Carbon\Carbon;
+trait Gravatario
 {
 	public function getGravatarAttribute()
 	{
