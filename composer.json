@@ -2,7 +2,7 @@
     "name": "darovi/laravel-gravatar",
     "description": "Uses the authorized users email to display their Gravatar as an image",
     "license": "MIT",
-    "version": "1.3",
+    "version": "1.3.1",
     "authors": [
         {
             "name": "Dan Rovito",
