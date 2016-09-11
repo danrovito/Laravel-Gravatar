@@ -12,17 +12,44 @@ Via [Composer](https://getcomposer.org/)
 
 ## Usage
 
-Use Gravatario in your User model.
+Use Gravatar in your User model.
 
 ```php
-<?php namespace App;
+<?php
+
+namespace App;
 
 use Darovi\Gravatar;
+use Illuminate\Database\Eloquent\Model;
 
-class User extends Model {
+class User extends Model
+{
+  use Gravatar;
+ 
+  // ...
+}
+```
 
+You can also control what attribute should be treated as the email address (instead of `email`) by overriding the `emailAttributeName()` method:
+
+```php
+<?php
+
+namespace App;
+
+use Darovi\Gravatar;
+use Illuminate\Database\Eloquent\Model;
+
+class User extends Model
+{
   use Gravatar;
   
+  protected function emailAttributeName()
+  {
+    return 'your_email_column';
+  }
+  
+  // ...
 }
 ```
 
