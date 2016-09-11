@@ -8,7 +8,7 @@ Gravatario is a simple Laravel package that displays a registered users Gravatar
 
 Via [Composer](https://getcomposer.org/)
 
-`composer require danrovito/gravatario`
+`composer require darovi/laravel-gravatar`
 
 ## Usage
 
@@ -17,11 +17,11 @@ Use Gravatario in your User model.
 ```php
 <?php namespace App;
 
-use DanRovito\Gravatario;
+use Darovi\Gravatar;
 
 class User extends Model {
 
-  use Gravatario;
+  use Gravatar;
   
 }
 ```
