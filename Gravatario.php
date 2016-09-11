@@ -1,8 +1,8 @@
 <?php
 
-namespace DanRovito;
+namespace Darovi;
 
-trait Gravatario
+trait Gravatar
 {
 	public function getGravatarAttribute()
 	{
