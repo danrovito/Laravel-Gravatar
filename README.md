@@ -1,5 +1,7 @@
 # Laravel Gravatar
 
+[![Latest Stable Version](https://poser.pugx.org/darovi/laravel-gravatar/v/stable)](https://packagist.org/packages/darovi/laravel-gravatar) [![Total Downloads](https://poser.pugx.org/darovi/laravel-gravatar/downloads)](https://packagist.org/packages/darovi/laravel-gravatar) [![License](https://poser.pugx.org/darovi/laravel-gravatar/license)](https://packagist.org/packages/darovi/laravel-gravatar) [![StyleCI](https://styleci.io/repos/42085428/shield?branch=master)](https://styleci.io/repos/42085428)
+
 Laravel Gravatar is a simple Laravel package that displays a registered users Gravatar based on their email address in your users table.  If the user does not have a registered gravatar it will show the default mystery man.
 
 ![Mystery Man](https://secure.gravatar.com/avatar/6e600a1f5823cf4a7f267b709dc530a5?d=mm)
