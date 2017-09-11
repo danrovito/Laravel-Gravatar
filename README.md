@@ -10,7 +10,7 @@ Laravel Gravatar is a simple Laravel package that displays a registered users Gr
 
 Via [Composer](https://getcomposer.org/)
 
-`composer require darovi/laravel-gravatar`
+`composer require danrovito/laravel-gravatar`
 
 ## Usage
 
